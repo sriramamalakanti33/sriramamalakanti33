@@ -1,80 +1,84 @@
-# 👨‍💻 Sriram Amalakanti – Developer Intern | Front-End Specialist | CSE-Cybersecurity
-
-Hi! I'm Sriram Amalakanti, a dynamic and passionate developer intern with a year of hands-on experience in front-end software development. I specialize in creating innovative and user-centric web applications, particularly for educational digitization. My work focuses on turning ideas into interactive solutions using **React.js**, **HTML**, and **CSS**.
-
+# Sri Ram Amalakanti
+ 
+**Software Engineer** · Full-Stack (MERN) · AI Integration  
+📍 Kakinada, Andhra Pradesh, India &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/sriram-amalakanti) &nbsp;·&nbsp; [GitHub](https://github.com/sriramamalakanti33) &nbsp;·&nbsp; [Email](mailto:sriramamalakanti369@gmail.com)
+ 
 ---
-
-## 💼 Experience
-
-### 🎓 Raj Reddy Center for Technology and Society (RCTS), IIIT Hyderabad  
-**Intern – NEP School Complex Digitization Project**  
-- Explored and integrated front-end packages.
-- Contributed to team-wide code reviews and agile development cycles.
-- Supported end-users and streamlined UI/UX feedback loops.
-
-### 🤖 AI/ML Virtual Internship  
-**India Edu Program & Google for Developers**  
-- Completed an AI/ML internship focused on the practical implementation of ML concepts in real-world applications.
-
+ 
+## About
+ 
+Software engineer with a B.Tech in Computer Science and hands-on experience building full-stack web applications using the MERN stack. I've shipped real projects — from an AI-powered careers page analyzer to a full-stack dietary tracking app — and I care deeply about writing clean, maintainable code that solves real problems.
+ 
+Previously interned as a React.js developer at IIIT Hyderabad's Raj Reddy Centre for Technology & Society, and spent two years teaching Data Structures and Mathematics — which sharpened how I think through problems and communicate technical ideas clearly.
+ 
+Open to **Software Engineer / Full-Stack Developer** roles.
+ 
 ---
-
-## 🎓 Education
-
-**B.Tech – Computer Science and Engineering (Cybersecurity)**  
-Kakinada Institute of Engineering and Technology (2020–2024)
-
+ 
+## Technical Skills
+ 
+| Area | Technologies |
+|---|---|
+| **Languages** | JavaScript, Python, Java |
+| **Frontend** | React.js, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **AI / APIs** | Gemini API, Anthropic Claude API |
+| **Tools** | Git, GitHub, JWT, Chart.js, REST APIs |
+ 
 ---
-
-## 🚀 Projects
-
-### 🔐 Java Password Generator  
-- Developed a secure password generator using Java.
-- Supports customizable password lengths and character combinations.
-- Emphasizes randomness and password security principles.
-
-### 🌐 K_Hub_IIIT – Full-Stack Dietary Tracking Web App  
-- A full-stack application built with **React.js**, **Node.js**, and **MongoDB**.
-- Designed to log, analyze, and track user dietary preferences.
-- Implements RESTful APIs, authentication, and a responsive UI.
-
-### 🔎 Password Strength Checker  
-- Web app to evaluate password strength using regex and logical validation.
-- Built with **HTML, CSS, and JavaScript** for real-time feedback.
-- Helps promote better cybersecurity habits through a clean and educational interface.
-
+ 
+## Projects
+ 
+### Openr — AI-Powered Careers Page Analyzer
+`MERN · JWT · Gemini API · Chart.js`
+ 
+Built a full-stack web app that uses AI to analyze company careers pages and surface job trends, required skills, and role patterns. Includes JWT-based authentication, RESTful APIs, and Chart.js data visualizations.
+ 
+→ [View Repository](https://github.com/sriramamalakanti33)
+ 
 ---
-
-## 🛠️ Technical Skills
-
-- **Languages:** Java, Python, JavaScript  
-- **Frontend:** HTML, CSS, React.js  
-- **Backend & Database:** Node.js, MongoDB  
-- **Other Skills:** Team Management, Communication, Agile Development
-
+ 
+### K_Hub_IIIT — Dietary Tracking Web App
+`React.js · Node.js · MongoDB · REST APIs`
+ 
+Designed and built a full-stack application for logging and analyzing dietary preferences. Implemented user authentication, RESTful API architecture, and a responsive UI.
+ 
+→ [View Repository](https://github.com/sriramamalakanti33)
+ 
 ---
-
-## 🌱 Certifications & Courses
-
-- Java Programming  
-- Cloud Computing  
-- Cybersecurity Foundations  
-- Python Programming
-
+ 
+### Password Strength Checker
+`HTML · CSS · JavaScript`
+ 
+Real-time password evaluation tool using regex-based validation. Clean, educational interface focused on cybersecurity awareness.
+ 
+→ [View Repository](https://github.com/sriramamalakanti33)
+ 
 ---
-
-## 🤝 Extracurriculars
-
-- **National Service Scheme (NSS):** Volunteer for community initiatives.
-- **Toastmasters International:** Active member improving communication and leadership.
-
+ 
+## Experience
+ 
+**React.js Developer Intern** · RCTS, IIIT Hyderabad  
+Contributed to the NEP School Complex Digitization Project — built and integrated React components, participated in agile sprints and code reviews, and improved UI/UX based on end-user feedback.
+ 
+**Assistant Professor** · KIET, Kakinada &nbsp;`Aug 2024 – Mar 2026`  
+Taught Engineering Mathematics (M1 & M2) and Data Structures. Developed strong skills in breaking down complex topics clearly — a mindset I bring to writing readable, well-documented code.
+ 
+**AI/ML Virtual Intern** · India Edu Program & Google for Developers  
+Completed hands-on training in ML fundamentals and real-world application development.
+ 
 ---
-
-## 📫 Let's Connect
-
-I'm actively building my skills and seeking opportunities to contribute to impactful and scalable projects.
-
-Feel free to reach out or check out my repositories to see what I’ve been building!
-
+ 
+## Education
+ 
+**B.Tech — Computer Science & Engineering**  
+Kakinada Institute of Engineering and Technology, JNTU-K · 2020–2024
+ 
 ---
-
-> *"Transforming ideas into digital solutions for a better tomorrow."*
+ 
+## Certifications
+ 
+Java Programming &nbsp;·&nbsp; Python Programming &nbsp;·&nbsp; Cloud Computing &nbsp;·&nbsp; Cybersecurity Foundations
+ 
+---
