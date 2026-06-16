@@ -23,8 +23,7 @@ Open to **Software Engineer / Full-Stack Developer** roles.
 | **Frontend** | React.js, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
-| **AI / APIs** | Gemini API, Anthropic Claude API |
-| **Tools** | Git, GitHub, JWT, Chart.js, REST APIs |
+| **Tools** | Git, GitHub, REST APIs |
  
 ---
  
